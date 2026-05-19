@@ -1,0 +1,41 @@
+Rank,Node ID,Lat,Lon,Elev (m),Importance,Flood Depth (m),P(detect),Noise Priority,Low-Lying,Type,Road Class,GMDA Near,Nearest Bldg
+1,N012560,28.4566,77.0265,222.669,0.8813,0.0,0.0228,0.5,0.2672,manhole,secondary,Hero Honda Chowk,commercial
+2,N010162,28.4752,77.0083,217.7595,0.8642,0.0,0.0228,0.5,0.4791,manhole,residential,none,commercial
+3,N002618,28.4843,77.0949,244.8575,0.85,0.0,0.0228,0.5,0.0368,manhole,tertiary,Sikanderpur Chowk,residential
+4,N001476,28.4765,77.094,246.2142,0.85,0.0,0.0228,0.5,0.09,manhole,tertiary,Sikanderpur Chowk,commercial
+5,N019771,28.4741,77.0771,238.635,0.85,0.0,0.0228,0.5,0.0495,manhole,residential,Iffco Chowk underpass,residential
+6,N024243,28.4172,77.0401,226.2572,0.85,0.0,0.0228,0.5,0.1675,manhole,secondary,Rajiv Chowk Sohna Road,commercial
+7,N015801,28.4622,77.0222,223.4509,0.85,0.0,0.0228,0.5,0.1811,manhole,residential,Hero Honda Chowk,residential
+8,N039522,28.4796,77.0818,243.3212,0.85,0.0,0.0228,0.5,0.0371,manhole,primary_link,Leg-I Sikanderpur origin,commercial
+9,N038947,28.4359,77.01,219.62,0.7965,0.0,0.0228,0.5,0.1047,manhole,trunk,Rezangla Chowk,commercial
+10,N042471,28.357,76.8982,258.626,0.7496,0.0,0.0228,1.0,0.0584,manhole,unclassified,none,residential
+11,N010230,28.4713,77.0214,220.2863,0.716,0.0,0.0228,0.5,0.2219,manhole,secondary,none,commercial
+12,N016446,28.4647,77.0305,225.065,0.7028,0.0,0.0228,0.5,0.1729,manhole,residential,MDI Chowk,transportation
+13,N037382,28.4506,77.0751,234.8966,0.6986,0.0,0.0228,0.5,0.145,manhole,residential,Kanahai Chowk Sec43/44,commercial
+14,N037874,28.3982,77.0618,227.5282,0.6962,0.0,0.0228,0.5,0.1363,manhole,service,Vatika Chowk,supermarket
+15,N038920,28.4686,77.0577,230.0713,0.6919,0.0,0.0228,0.5,0.1068,manhole,secondary_link,Sector 27 near Bandh,commercial
+16,N014403,28.4954,77.0116,216.0914,0.6821,0.0,0.0228,0.5,0.2826,manhole,residential,none,residential
+17,N002390,28.4239,77.0685,233.5661,0.6815,0.0,0.0228,0.5,0.137,manhole,residential,Mayfield Garden Chowk,college
+18,N022110,28.4473,77.0674,232.4521,0.6528,0.0,0.0228,0.5,0.1409,manhole,residential,Kanahai Chowk Sec43/44,residential
+19,N012487,28.447,77.0099,222.2995,0.6482,0.0,0.0228,0.5,0.2454,manhole,residential,none,residential
+20,N037937,28.4408,77.0422,225.0298,0.646,0.0,0.0228,0.5,0.0407,manhole,residential,Medanta Hospital Gate 2,hospital
+21,N040377,28.4903,77.0915,233.5127,0.6403,0.0,0.0228,0.5,0.0913,manhole,service,Gold Souk Chowk,train_station
+22,N041446,28.4464,77.0329,224.6087,0.6333,0.0,0.0228,0.5,0.0915,manhole,secondary,none,industrial
+23,N002410,28.4521,77.0417,227.2748,0.6323,0.0,0.0228,0.5,0.083,manhole,secondary,none,commercial
+24,N002621,28.4583,77.0706,235.1849,0.6151,0.0,0.0228,0.5,0.0403,manhole,service,HUDA City Centre,commercial
+25,N028226,28.437,76.935,217.7264,0.6096,0.0,0.0228,0.5,0.1859,manhole,residential,none,residential
+26,N010963,28.5151,77.0346,214.3122,0.6093,0.0,0.0228,0.5,0.212,manhole,residential,none,residential
+27,N015009,28.4869,77.0197,218.8235,0.6002,0.0,0.0228,0.5,0.1746,manhole,service,Old Delhi Rd Sirhole,residential
+28,N020172,28.4275,77.1087,247.7578,0.5959,0.0,0.0228,0.5,0.1356,manhole,residential,none,commercial
+29,N061852,28.4287,77.0391,220.4439,0.5706,0.0,0.0228,0.5,0.111,manhole,residential,none,office
+30,N040526,28.4602,77.0779,240.2978,0.5685,0.0,0.0228,0.5,0.0538,manhole,service,Fortis Hospital road,commercial
+31,N028113,28.4435,76.9428,214.2148,0.5664,0.0,0.0228,0.5,0.177,manhole,residential,none,residential
+32,N018584,28.4563,77.0179,221.3039,0.5624,0.0,0.0228,0.5,0.1381,manhole,residential,none,residential
+33,N008107,28.3164,76.8919,260.7262,0.5584,0.0,0.0228,0.5,0.0489,manhole,trunk_link,none,none
+34,N025918,28.4424,76.928,216.4796,0.557,0.0,0.0228,0.5,0.1586,manhole,residential,none,residential
+35,N038614,28.4298,77.0979,240.026,0.5558,0.0,0.0228,0.5,0.0852,manhole,residential,none,industrial
+36,N039115,28.4159,77.0918,233.4332,0.55,0.0,0.0228,0.5,0.0563,manhole,residential,none,commercial
+37,N040788,28.4911,77.0837,230.7282,0.5157,0.0,0.0228,0.5,0.0801,manhole,service,none,commercial
+38,N064353,28.4643,77.0058,219.0862,0.5122,0.0,0.0228,0.5,0.0634,manhole,residential,none,residential
+39,N045022,28.4405,76.9201,217.1692,0.4274,0.0,0.0228,0.5,0.0559,manhole,residential,none,unclassified
+40,N041973,28.3833,77.1019,249.3337,0.3666,0.0,0.0228,0.5,0.031,manhole,service,none,unclassified
